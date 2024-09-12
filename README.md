@@ -14,7 +14,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&family=Nerko+One&display=swap" rel="stylesheet">
     
-    <title>My Website </title>
 </head>
 <body>
     <div class="top-container">
