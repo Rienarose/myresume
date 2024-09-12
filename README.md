@@ -19,8 +19,8 @@
     <div class="top-container">
         <img class="top-cloud" src="image/cloud.png" alt="">
 
-        <h1> I'm Rienarose </h1>
-        <p> <b> A Programmer <b> </p>
+        <h1>I'm Rienarose</h1>
+        <p> <b>A Programmer<b></p>
 
         <img class="bottom-cloud" src="image/cloud.png" alt="">
         <img src="image/mountain.png" alt="">
