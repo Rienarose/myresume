@@ -90,7 +90,7 @@
             <a class="footer-link" href="notweb.html"> Twitter </a>
             <a class="footer-link" href="notweb.html"> Youtube </a>
             <a class="footer-link" href="notweb.html"> Instagram </a>
-           <p class="RAYAJ"> ⓒ 2022 Rienarose Durwin @ Isabela State University</p> 
+           <p class="RAYAJ"> ⓒ 2024 Rienarose Durwin @ Isabela State University</p> 
          </div>
        
     
